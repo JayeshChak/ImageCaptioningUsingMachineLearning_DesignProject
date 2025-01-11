@@ -1,4 +1,4 @@
-# ImageCaptionCraft
+# Image Captioning using ML
 
 ## Overview
 
